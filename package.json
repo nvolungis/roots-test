@@ -1,6 +1,6 @@
 {
   "name": "-roots-test",
-  "description": "Testing out Roots",
+  "description": "Testing out Roots ",
   "dependencies": {
     "autoprefixer-stylus": "0.5.x",
     "axis": "0.3.x",
