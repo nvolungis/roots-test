@@ -1,0 +1,10 @@
+extends layout
+
+block content
+  h3 Welcome to roots!
+
+  ul
+    for post in wordpress.post
+      li: a(href=post._url) post.title
+      
+
