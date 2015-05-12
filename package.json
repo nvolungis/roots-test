@@ -13,5 +13,8 @@
     "roots-wordpress": "^0.2.0",
     "rupture": "0.6.x",
     "stylus": "0.49.x"
+  },
+  "devDependencies": {
+    "roots": "^3.0.4"
   }
 }
